@@ -12,3 +12,23 @@ nav {
   color: #333 !important;  
   background: #FFF !important;
 }
+.velkommen {
+	text-align: center;
+}
+.panel-heading {
+	text-align: center;
+}
+.images {
+	list-style-type: none;
+}
+.images li {
+	display: inline-block;
+	vertical-align: top;
+	width: 24.9%;
+}
+.images li img {
+	max-width: 100%;
+}
+.orders {
+	text-align: center;
+}
