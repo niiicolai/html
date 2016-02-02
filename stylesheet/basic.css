@@ -1,0 +1,14 @@
+nav {
+  background: #644A8C !important;
+}
+.navbar-brand {
+  color: #fff !important;
+}
+.navbar-nav li a {
+  color: #FFF !important;
+}
+
+.navbar-nav .active a {
+  color: #333 !important;  
+  background: #FFF !important;
+}
