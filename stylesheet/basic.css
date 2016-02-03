@@ -24,15 +24,14 @@ nav {
 .images li {
 	display: inline-block;
 	vertical-align: top;
-	width: 24.9%;
+	width: 20.9%;
 }
 .images li img {
-	max-width: 100%;
+	max-width: 85%;
 }
 .orders {
 	text-align: center;
 }
 .list-gruppe {
 	text-align: center;
-	color: red;
 }
